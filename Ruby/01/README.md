@@ -22,7 +22,7 @@ Finally, building from source will not be covered here, but this is mostly used 
 
 For your systems specific instructions on how to install ruby see the [Ruby Documentation](https://www.ruby-lang.org/en/documentation/installation/)
 
-I'd recommend either using __rvm or rbenv__, they will make your life much easier going forward.
+I'd recommend either using __rvm or rbenv__, they will make your life much easier going forward, these tutorials specifically will use rbenv.
 
 Once you've got ruby installed, to test that it's working try running the `hello_world.rb` found in this directory. 
 

@@ -1,0 +1,1 @@
+This repository is meant for educational purposes. It may not be used for commercial purposes or profit unless otherwise stated by the owner. All enqueries should be sent via[nicholasrobertm@gmail.com](mailto:nicholasrobertm@gmail.com).
