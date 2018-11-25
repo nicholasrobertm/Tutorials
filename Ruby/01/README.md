@@ -16,7 +16,7 @@ The first two are self explanatory, these are installed like you would install a
 * Want to test against the latest ruby version
 * Want to isolate libraries, known as 'gems'
 
-For the most part the reason for it is the first scenario. An exampe of this is if you're on MacOS and some flavors of linux, it has a system ruby installed. You don't want to mix your system's version of ruby up with your scripts because if you're developing a script, and upgrade the ruby version, it could break other things running on the system.
+For the most part the reason for it is the first scenario. An example of this is if you're on MacOS and some flavors of linux, it has a system ruby installed. You don't want to mix your system's version of ruby up with your scripts because if you're developing a script, and upgrade the ruby version, it could break other things running on the system.
 
 Finally, building from source will not be covered here, but this is mostly used by people who either want to implement their own features when they can't do so otherwise (there aren't many times this happens) or if the system doesn't have an install method (the more than likely scenario for this)
 
